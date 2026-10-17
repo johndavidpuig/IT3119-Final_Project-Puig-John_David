@@ -1,36 +1,32 @@
-IT3119 Final Project
+# Project Title
+Database Application
 
-(Note This Just A School Project Not An Actual Legit Database Program)
+## Problem
+Saving An App Through Web Deployment
 
+## Features
+- Can Insert, Delete & Search Data
+- Can Be Edited Through URL Links As It Is Now Published
 
-Project Description
+## Technology Stack
+- Supabase (PostgreSQL, Auth, RLS)
+- HTML, CSS, JavaScript, Vite
+- GitHub
+- Vercel
 
-This project is a web-based application developed as part of the IT3119 course. It aims to provide users with an easy and efficient way to manage information through a user-friendly interface.
+## Live Application
+(https://databaseapplication-23434mmy6-do-this-for-fun123.vercel.app/)
 
+## Source Code
+(https://github.com/johndavidpuig/IT3119-Final_Project-Puig-John_David/tree/main)
 
-Features
+## Local Setup
+1. Install Node.js LTS.
+2. Clone/download this repository.
+3. Run `npm install`.
+4. Create `.env.local` using `.env.example`.
+5. Add your own Supabase Project URL and publishable key.
+6. Run `npm run dev`.
 
-- User login and authentication
-- Dashboard for viewing information
-- Create, read, update, and delete (CRUD) operations
-- Data management and organization
-- Technology Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js and Express
-- Database: MySQL
-
-
-Setup Instructions
-
-- Clone or download this repository.
-- Install Node.js if it is required by the project.
-- Open a terminal in the project folder.
-- Install the required dependencies:
-npm install
-- Configure the required environment variables in your local .env.local file.
-- Start the application using the appropriate command defined in package.json.
-
-
-Author
-
-John David Puig
+## Security Notes
+Never commit `.env.local`, passwords, or secret/service-role keys.
