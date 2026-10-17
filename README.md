@@ -2,9 +2,11 @@ IT3119 Final Project
 
 (Note This Just A School Project Not An Actual Legit Database Program)
 
+
 Project Description
 
 This project is a web-based application developed as part of the IT3119 course. It aims to provide users with an easy and efficient way to manage information through a user-friendly interface.
+
 
 Features
 
@@ -17,6 +19,7 @@ Features
 - Backend: Node.js and Express
 - Database: MySQL
 
+
 Setup Instructions
 
 - Clone or download this repository.
@@ -26,6 +29,7 @@ Setup Instructions
 npm install
 - Configure the required environment variables in your local .env.local file.
 - Start the application using the appropriate command defined in package.json.
+
 
 Author
 
