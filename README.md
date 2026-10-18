@@ -15,7 +15,7 @@ Saving An App Through Web Deployment
 - Vercel
 
 ## Live Application
-(https://databaseapplication-23434mmy6-do-this-for-fun123.vercel.app/)
+(https://it-3119-final-project-puig-john-dav.vercel.app/)
 
 ## Source Code
 (https://github.com/johndavidpuig/IT3119-Final_Project-Puig-John_David/tree/main)
